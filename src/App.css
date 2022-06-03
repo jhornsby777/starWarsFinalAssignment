@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.header-link{
+  padding-left: 10px;
+}
+
+.movie-div h2{
+  text-align: center;
+}
+
+.page-content{
+  padding-top: 40px;
+}
+
+.review-text{
+  font-size: 8px;
+}
